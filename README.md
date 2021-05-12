@@ -10,11 +10,11 @@
 
 :point_right: [Gitee 仓库](https://gitee.com/Zero-Pointer/HostRefresher.git)
 
-:point_right: [Github 仓库](https://github.com/Zero-Pointer/HostRefresher)
+:point_right: [Github 仓库](https://github.com/Zero-Pointer/HostRefresher-windows.git)
 
 ---
 
-### V1.0
+### V1.2
 
-能够完成最基本的加速功能，仅限 Windows 系统
+能够完成最基本的加速功能，此版本仅限 Windows 系统
 
